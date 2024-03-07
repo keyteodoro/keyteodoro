@@ -1,3 +1,7 @@
+<div>
+ <img align="center" alt="key" height="300" width="3000"src="https://github.com/keyteodoro/keyteodoro/assets/162514639/21e1451a-5ab3-447e-ae47-3480cd636dcc"/>
+ <div>
+
 ### Olá!! sou  Key Teodoro🪭
 
 Cursando 3º Semestre em Analise de Sistemas
@@ -12,7 +16,7 @@ Cursando 3º Semestre em Analise de Sistemas
   <img align="center" alt="key-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="key-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="key-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="key" height="180" width="180" src="https://github.com/keyteodoro/keyteodoro/assets/162514639/f01cba2f-1567-47ff-86ff-f78d44f7b956"/>
+  <img align="right" alt="key" height="180" width="300" src="https://github.com/keyteodoro/keyteodoro/assets/162514639/108b03e7-c08a-4d03-ba3f-a71c50612b5d"/>
 
 ##
 
